@@ -3,7 +3,7 @@
     <parent>
         <artifactId>Pet_Clinic</artifactId>
         <groupId>com.mizuirokoala</groupId>
-        <version>0.0.5</version>
+        <version>0.0.5-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -24,7 +24,7 @@
         <dependency>
             <artifactId>pet_clinic_data</artifactId>
             <groupId>com.mizuirokoala</groupId>
-            <version>0.0.5</version>
+            <version>0.0.5-SNAPSHOT</version>
         </dependency>
 
         <dependency>
