@@ -96,4 +96,8 @@
         </plugins>
     </build>
 
+
+<!--    <scm>-->
+<!--        <developerConnection>scm:git:https://github.com/Mizuirokoala/Pet_Clinic.git</developerConnection>-->
+<!--    </scm>-->
 </project>
