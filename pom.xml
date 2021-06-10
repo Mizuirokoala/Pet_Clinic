@@ -4,7 +4,7 @@
 
     <groupId>com.mizuirokoala</groupId>
     <artifactId>Pet_Clinic</artifactId>
-    <version>0.0.5</version>
+    <version>0.0.6-SNAPSHOT</version>
 
 
     <modules>
@@ -98,6 +98,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/Mizuirokoala/Pet_Clinic.git</developerConnection>
-      <tag>Pet_Clinic-0.0.5</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
